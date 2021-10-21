@@ -1,0 +1,1 @@
+print(bar_meter(4, 4))
