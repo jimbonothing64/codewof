@@ -1,0 +1,1 @@
+print(word_count('All is well'))

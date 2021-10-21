@@ -1,0 +1,1 @@
+print(word_count('She sells seashells by the seashore'))

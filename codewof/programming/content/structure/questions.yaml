@@ -1141,3 +1141,11 @@ shipping-fee:
     1: normal
     2: normal
     3: normal
+
+word-count:
+  types:
+    - function
+  test-cases:
+    1: normal
+    2: normal
+    3: normal
