@@ -1165,3 +1165,13 @@ bar-meter:
     5: normal
     6: normal
     7: normal
+
+censor-password:
+  types:
+    - program
+  test-cases:
+    1: normal
+    2: normal
+    3: exceptional
+    4: normal
+
